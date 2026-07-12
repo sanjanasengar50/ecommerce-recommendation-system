@@ -26,7 +26,7 @@ ecommerce-recommender/
 │   └── evaluation.py                 # Level 5: time-based split + Precision@K/Recall@K
 ├── app.py                 # Streamlit demo
 └── requirements.txt
-
+```
 ## Setup
 
 ```bash
