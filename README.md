@@ -9,6 +9,7 @@ A recommendation engine built for an e-commerce use case (Amazon-style), coverin
 Recommendation systems are a core ML problem at companies like Amazon (e.g. "customers who bought this also bought"). This project demonstrates the full pipeline: data loading, baseline modeling, collaborative filtering, content-based filtering, a hybrid model, rigorous evaluation, and a deployed demo — trained and tested on a real subset of Amazon customer review data.
 
 ## Project structure
+
 ecommerce-recommender/
 ├── data/
 │   ├── ratings.csv        # user_id, product_id, rating, timestamp
